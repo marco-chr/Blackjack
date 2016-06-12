@@ -1,2 +1,3 @@
 # README #
-Modification for test
+Blackjack made with OOP in Python 2.7
+
